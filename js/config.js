@@ -10,7 +10,7 @@ window.STORE_CONFIG = {
   // Your Tebex PUBLIC token (Tebex panel > Integrations > API Keys > "Public Token").
   // Leave empty to show demo products.
   // Never paste your PRIVATE key here. Anyone can read this file.
-  tebexToken: "",
+  tebexToken: "wo35-b37dfe661ff414b6bb40ae5887b64e57b91b2eb6",
 
   // Links (leave "" to hide)
   discordUrl: "",
@@ -27,7 +27,7 @@ window.STORE_CONFIG = {
 
   stats: [
     { value: "0.00ms",   label: "Idle Resmon" },
-    { value: "ESX · QB", label: "Framework Ready" },
+    { value: "ESX · QB · QBX", label: "Framework Ready" },
     { value: "24/7",     label: "Discord Support" },
     { value: "Instant",  label: "Keymaster Delivery" }
   ],
